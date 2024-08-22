@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+}
+
+.container-kado img{
+    height: 450px;
+}
+
+.container-kado{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
